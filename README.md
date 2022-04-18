@@ -1,4 +1,4 @@
-# SQL_Brewery_Database Analysis
+# Brewery Analysis
 ### Project At A Glance
 * Link to code: [here](https://github.com/NhiDang1001/SQL_Brewery_Database/blob/main/brewery.sql)
 
