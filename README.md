@@ -1,6 +1,6 @@
 # SQL_Brewery_Database Analysis
 ### Project At A Glance
-* Link to code: [here](https://github.com/NhiDang1001/YouTube-APIs-Analysis/blob/master/Nhi1.ipynb)
+* Link to code: [here](https://github.com/NhiDang1001/SQL_Brewery_Database/blob/main/brewery.sql)
 
 
 ### Links to Other Projects
