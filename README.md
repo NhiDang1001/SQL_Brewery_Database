@@ -5,13 +5,11 @@
 
 ### Links to Other Projects
 Below are my personal projects that I've done. Currently they've binned in 3 respositories.
-
 1. [Seattle Pet Licensing](https://github.com/NhiDang1001/pet_licensing_seattle-Python-.git)
-2. [YouTube APIs Analysis (Ali Abdaal channel)](https://github.com/NhiDang1001/YouTube-APIs-Analysis.git)
-3. [Climate Change Analysis](https://github.com/NhiDang1001/Climate_Change_Analysis.git)
+2. [Climate Change Analysis](https://github.com/NhiDang1001/Climate_Change_Analysis.git)
+3. [YouTube APIs Analysis (Ali Abdaal channel)](https://github.com/NhiDang1001/YouTube-APIs-Analysis.git)
 
 Below are some of my analysis using MySQL. Currently they're binned in 5 repositories.
-
 1. [SQL Brewery Analysis](https://github.com/NhiDang1001/SQL_Brewery_Database)
 2. [SQL Netflix Analysis](https://github.com/NhiDang1001/SQL_Netflix_Analysis)
 3. [SQL Airbnb Analysis](https://github.com/NhiDang1001/SQL_Airbnb_Analysis)
