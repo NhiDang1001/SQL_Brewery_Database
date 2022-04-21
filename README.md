@@ -9,7 +9,11 @@ Below are my personal projects that I've done. Currently they've binned in 3 res
 2. [Climate Change Analysis](https://github.com/NhiDang1001/Climate_Change_Analysis.git)
 3. [YouTube APIs Analysis (Ali Abdaal channel)](https://github.com/NhiDang1001/YouTube-APIs-Analysis.git)
 
-Below are some of my analysis using MySQL. Currently they're binned in 5 repositories.
+Below are my `Python` apps. Currently they're binned in 2 respositories.
+1. [Student Information App](https://github.com/NhiDang1001/Student_Info_App)
+2. [Gas Station App](https://github.com/NhiDang1001/Gas_Station_App)
+
+Below are some of my analysis using `MySQL`. Currently they're binned in 5 repositories.
 1. [SQL Brewery Analysis](https://github.com/NhiDang1001/SQL_Brewery_Database)
 2. [SQL Netflix Analysis](https://github.com/NhiDang1001/SQL_Netflix_Analysis)
 3. [SQL Airbnb Analysis](https://github.com/NhiDang1001/SQL_Airbnb_Analysis)
